@@ -1,0 +1,1963 @@
+2025-05-17 17:41:58.152 | WARNING  | nodes.vlm_node:__init__:18 - Starting VLM
+2025-05-17 17:41:58.152 | INFO     | nodes.vlm_wrapper:__init__:36 - Attempting to load VLM
+2025-05-17 17:41:58.456 | INFO     | nodes.vlm_wrapper:__init__:44 - Tokenizer successfully loaded
+2025-05-17 17:41:59.127 | INFO     | nodes.vlm_wrapper:__init__:49 - Processor successfully loaded
+2025-05-17 17:42:02.809 | INFO     | nodes.vlm_wrapper:__init__:59 - Model successfully loaded in 4.66s
+2025-05-17 17:42:02.809 | WARNING  | nodes.vlm_node:__init__:21 - VLM Node is ready
+2025-05-17 17:42:02.809 | WARNING  | __main__:__init__:29 - Building graph
+2025-05-17 17:42:02.900 | WARNING  | __main__:__init__:50 - Graph has been built
+2025-05-17 17:42:02.904 | WARNING  | __main__:<module>:143 - ---STARTING GAME---
+2025-05-17 17:42:03.111 | INFO     | __main__:<module>:147 - STARTING GAME: Wait 40 seconds
+2025-05-17 17:42:43.112 | WARNING  | __main__:<module>:151 - ---STARTING LLAMA.CPP---
+2025-05-17 17:42:43.622 | INFO     | __main__:<module>:159 - STARTING LLAMA.CPP: Wait 40 seconds
+2025-05-17 17:43:23.634 | DEBUG    | nodes.get_player_strengths:__call__:44 - ---CHARACTER STRENGTHS: GETTING PLAYER CHARACTERS STRENGTHS---
+2025-05-17 17:43:26.737 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:43:26.845 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:43:29.811 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.07s
+2025-05-17 17:43:29.812 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:43:29.827 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:43:32.422 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.61s
+2025-05-17 17:43:32.423 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:43:32.437 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:43:33.978 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.56s
+2025-05-17 17:43:35.777 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:43:35.792 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:43:38.283 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.51s
+2025-05-17 17:43:38.284 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:43:38.298 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:43:40.880 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.60s
+2025-05-17 17:43:40.882 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:43:40.896 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:43:42.537 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.66s
+2025-05-17 17:43:44.326 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:43:44.341 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:43:46.738 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.41s
+2025-05-17 17:43:46.739 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:43:46.754 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:43:49.345 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.61s
+2025-05-17 17:43:49.346 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:43:49.360 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:43:50.971 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.62s
+2025-05-17 17:43:52.769 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:43:52.787 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:43:55.246 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.48s
+2025-05-17 17:43:55.248 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:43:55.262 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:43:57.856 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.61s
+2025-05-17 17:43:57.858 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:43:57.872 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:43:59.524 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.67s
+2025-05-17 17:44:03.438 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 17:44:04.157 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:04.298 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:07.609 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.45s
+2025-05-17 17:44:10.745 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:10.875 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:14.135 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.39s
+2025-05-17 17:44:14.136 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 17:44:14.137 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 17:44:14.243 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 3
+2025-05-17 17:44:14.243 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 17:44:15.703 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:15.722 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:20.131 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.43s
+2025-05-17 17:44:20.132 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:20.146 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:23.131 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.00s
+2025-05-17 17:44:23.133 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:23.146 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:26.063 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.93s
+2025-05-17 17:44:26.064 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:26.077 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:28.635 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.57s
+2025-05-17 17:44:28.636 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:28.654 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:30.436 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.80s
+2025-05-17 17:44:30.437 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:30.454 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:32.131 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.69s
+2025-05-17 17:44:32.133 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:32.149 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:33.973 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.84s
+2025-05-17 17:44:33.974 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:33.994 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:35.812 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.84s
+2025-05-17 17:44:35.814 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:35.902 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:39.065 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.25s
+2025-05-17 17:44:39.969 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:39.986 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:44.140 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.17s
+2025-05-17 17:44:44.141 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:44.160 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:46.673 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.53s
+2025-05-17 17:44:46.675 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:46.694 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:49.506 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.83s
+2025-05-17 17:44:49.507 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:49.525 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:52.034 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.53s
+2025-05-17 17:44:52.036 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:52.054 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:53.932 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.90s
+2025-05-17 17:44:53.934 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:53.947 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:55.613 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.68s
+2025-05-17 17:44:55.614 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:55.629 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:57.435 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.82s
+2025-05-17 17:44:57.437 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:57.454 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:44:59.280 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.84s
+2025-05-17 17:44:59.281 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:44:59.367 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:02.599 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.32s
+2025-05-17 17:45:03.464 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:03.478 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:06.630 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.17s
+2025-05-17 17:45:06.632 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:06.645 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:09.167 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.54s
+2025-05-17 17:45:09.168 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:09.185 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:12.330 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.16s
+2025-05-17 17:45:12.331 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:12.344 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:14.879 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.55s
+2025-05-17 17:45:14.880 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:14.896 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:16.579 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.70s
+2025-05-17 17:45:16.580 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:16.595 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:18.247 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.67s
+2025-05-17 17:45:18.248 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:18.263 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:20.074 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.83s
+2025-05-17 17:45:20.075 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:20.093 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:21.906 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.83s
+2025-05-17 17:45:21.907 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:21.994 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:25.136 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.23s
+2025-05-17 17:45:29.005 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[2, 4, 1]
+2025-05-17 17:45:29.005 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 17:45:29.007 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:29.028 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:32.197 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.19s
+2025-05-17 17:45:32.198 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:32.214 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:33.231 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.03s
+2025-05-17 17:45:33.232 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 0
+2025-05-17 17:45:33.233 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:33.250 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:36.365 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.13s
+2025-05-17 17:45:36.366 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:36.380 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:37.401 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.03s
+2025-05-17 17:45:37.402 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:37.419 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:40.496 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.09s
+2025-05-17 17:45:40.498 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:40.512 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:41.528 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.03s
+2025-05-17 17:45:41.530 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:41.544 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:44.866 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.34s
+2025-05-17 17:45:44.867 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:45:44.885 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:45:45.966 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.10s
+2025-05-17 17:45:45.967 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 17:45:45.968 | WARNING  | nodes.llm_node:__call__:38 - Starting LLM Node
+2025-05-17 17:45:55.692 | WARNING  | nodes.llm_node:__call__:45 - LLM Node is ready
+2025-05-17 17:45:55.693 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 17:45:55.694 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 11549 out of 11549, EP 620 out of 620, CP 200 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 10138 out of 10138, EP 580 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 8374 out of 8374, EP 900 out of 900, CP 200 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 12590 out of 12590, EP 590 out of 590, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 0.
+
+# ENEMIES STATS
+Enemy 2 has HP 34681 out of 34681, stun level 0%. Its attack 782, defense 409, arts strength 793, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is within reach of basic attack, crafts, and attack arts.
+Enemy 4 has HP 9836 out of 9836, stun level 0%. Its attack 79, defense 292, arts strength 654, arts defense 246, initiative 123. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, burn, seal, rot, fear, delay, freeze, mute, blind, deathblow. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+Enemy 1 has HP 9836 out of 9836, stun level 0%. Its attack 79, defense 292, arts strength 654, arts defense 246, initiative 123. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, burn, seal, rot, fear, delay, freeze, mute, blind, deathblow. This enemy is within reach of basic attack, crafts, and attack arts.
+2025-05-17 17:46:06.631 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":2}', name='action_use_art'), id='H41q3E9d3LcXbcVVPaJTUDuST7idJtG0', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=26, prompt_tokens=1542, total_tokens=1568, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--ac5bd51f-4a69-4c52-9bbf-f052507f0e75-0' tool_calls=[{'name': 'action_use_art', 'args': {'enemy_id': 2}, 'id': 'H41q3E9d3LcXbcVVPaJTUDuST7idJtG0', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1542, 'output_tokens': 26, 'total_tokens': 1568}
+2025-05-17 17:46:06.637 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 17:46:07.215 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=4
+2025-05-17 17:46:07.519 | DEBUG    | tools.controller:select_target_enemy:106 - TOOL: Next target
+2025-05-17 17:46:08.071 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=1
+2025-05-17 17:46:08.375 | DEBUG    | tools.controller:select_target_enemy:106 - TOOL: Next target
+2025-05-17 17:46:08.965 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=2
+2025-05-17 17:46:08.965 | DEBUG    | tools.controller:select_target_enemy:102 - TOOL: Found requested target! target_id=2 == enemy_id=2
+2025-05-17 17:46:08.965 | DEBUG    | tools.controller:action_use_art:176 - TOOL: Using art
+2025-05-17 17:46:10.572 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 17:46:10.573 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 17:46:10.575 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:46:10.794 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:46:15.432 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.86s
+2025-05-17 17:46:15.433 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:46:15.559 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:46:19.599 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.17s
+2025-05-17 17:46:19.601 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 17:46:20.235 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:46:20.365 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:46:24.213 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.98s
+2025-05-17 17:46:24.214 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 17:46:24.215 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 17:46:24.320 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 3
+2025-05-17 17:46:24.321 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 17:46:24.964 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:46:24.979 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:46:29.810 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.85s
+2025-05-17 17:46:29.812 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:46:29.825 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:46:33.643 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.83s
+2025-05-17 17:46:33.645 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:46:33.659 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:46:38.010 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.37s
+2025-05-17 17:46:38.012 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:46:38.026 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:46:41.846 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.83s
+2025-05-17 17:46:41.847 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:46:41.862 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:46:44.597 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.75s
+2025-05-17 17:46:44.599 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:46:44.615 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:46:47.045 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.45s
+2025-05-17 17:46:47.047 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:46:47.061 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:46:49.715 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.67s
+2025-05-17 17:46:49.716 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:46:49.731 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:46:52.346 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.63s
+2025-05-17 17:46:52.347 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:46:52.434 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:46:56.333 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.99s
+2025-05-17 17:46:57.283 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:46:57.298 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:47:04.940 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 7.66s
+2025-05-17 17:47:04.941 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:47:04.958 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:47:09.808 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.87s
+2025-05-17 17:47:09.809 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:47:09.826 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:47:14.727 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.92s
+2025-05-17 17:47:14.730 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:47:14.742 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:47:18.763 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.03s
+2025-05-17 17:47:18.765 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:47:18.784 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:47:21.244 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.48s
+2025-05-17 17:47:21.245 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:47:21.260 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:47:23.578 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.33s
+2025-05-17 17:47:23.579 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:47:23.594 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:47:26.198 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.62s
+2025-05-17 17:47:26.199 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:47:26.216 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:47:28.899 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.70s
+2025-05-17 17:47:28.900 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:47:28.990 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:47:32.965 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.06s
+2025-05-17 17:47:33.910 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:47:33.927 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:47:38.810 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.90s
+2025-05-17 17:47:38.811 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:47:38.826 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:47:43.042 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.23s
+2025-05-17 17:47:43.043 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:47:43.059 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:47:48.199 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.16s
+2025-05-17 17:47:48.200 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:47:48.216 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:47:52.164 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.96s
+2025-05-17 17:47:52.166 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:47:52.184 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:47:55.031 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.87s
+2025-05-17 17:47:55.032 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:47:55.050 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:47:57.639 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.61s
+2025-05-17 17:47:57.640 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:47:57.659 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:48:00.312 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.67s
+2025-05-17 17:48:00.313 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:48:00.328 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:48:02.966 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.65s
+2025-05-17 17:48:02.968 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:48:03.056 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:48:06.999 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.03s
+2025-05-17 17:48:08.870 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[0, 1, 2]
+2025-05-17 17:48:08.870 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 17:48:08.872 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:48:08.889 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:48:13.671 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.80s
+2025-05-17 17:48:13.672 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:48:13.692 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:48:15.132 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.46s
+2025-05-17 17:48:15.134 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:48:15.151 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:48:20.066 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.93s
+2025-05-17 17:48:20.067 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:48:20.084 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:48:21.666 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.60s
+2025-05-17 17:48:21.667 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:48:21.686 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:48:26.411 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.74s
+2025-05-17 17:48:26.413 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:48:26.427 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:48:27.911 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.50s
+2025-05-17 17:48:27.912 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:48:27.926 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:48:32.742 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.83s
+2025-05-17 17:48:32.744 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:48:32.758 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:48:34.176 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.43s
+2025-05-17 17:48:34.177 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 3
+2025-05-17 17:48:34.177 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 17:48:34.178 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 17:48:34.179 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 11549 out of 11549, EP 620 out of 620, CP 200 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 10138 out of 10138, EP 580 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 8374 out of 8374, EP 900 out of 900, CP 200 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 11678 out of 12590, EP 590 out of 590, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 3.
+
+# ENEMIES STATS
+Enemy 0 has HP 9836 out of 9836, stun level 0%. Its attack 79, defense 292, arts strength 654, arts defense 246, initiative 123. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, burn, seal, rot, fear, delay, freeze, mute, blind, deathblow. This enemy is within reach of basic attack, crafts, and attack arts.
+Enemy 1 has HP 34681 out of 34681, stun level 0%. Its attack 782, defense 409, arts strength 793, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is within reach of basic attack, crafts, and attack arts.
+Enemy 2 has HP 5689 out of 9836, stun level 12%. Its attack 79, defense 249, arts strength 654, arts defense 246, initiative 123. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, burn, seal, rot, fear, delay, freeze, mute, blind, deathblow. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+2025-05-17 17:48:42.657 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":1}', name='action_use_art'), id='6t1NvNz6cBjyC0btCoMJ9tTwszgsqCrL', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=26, prompt_tokens=1543, total_tokens=1569, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--ff89e8d5-522c-42c8-b545-35e15f5f2146-0' tool_calls=[{'name': 'action_use_art', 'args': {'enemy_id': 1}, 'id': '6t1NvNz6cBjyC0btCoMJ9tTwszgsqCrL', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1543, 'output_tokens': 26, 'total_tokens': 1569}
+2025-05-17 17:48:42.662 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 17:48:43.312 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=2
+2025-05-17 17:48:43.616 | DEBUG    | tools.controller:select_target_enemy:106 - TOOL: Next target
+2025-05-17 17:48:44.249 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=0
+2025-05-17 17:48:44.552 | DEBUG    | tools.controller:select_target_enemy:106 - TOOL: Next target
+2025-05-17 17:48:45.186 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=1
+2025-05-17 17:48:45.187 | DEBUG    | tools.controller:select_target_enemy:102 - TOOL: Found requested target! target_id=1 == enemy_id=1
+2025-05-17 17:48:45.187 | DEBUG    | tools.controller:action_use_art:176 - TOOL: Using art
+2025-05-17 17:48:46.795 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 17:48:46.795 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 17:48:46.796 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:48:47.014 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:48:50.408 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.61s
+2025-05-17 17:48:50.408 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:48:50.536 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:48:53.835 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.43s
+2025-05-17 17:48:53.836 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 17:48:54.447 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:48:54.577 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:48:57.908 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.46s
+2025-05-17 17:48:57.909 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 17:48:57.910 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 17:48:58.015 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 3
+2025-05-17 17:48:58.015 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 17:48:58.645 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:48:58.660 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:01.977 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.33s
+2025-05-17 17:49:01.978 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:01.992 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:04.653 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.68s
+2025-05-17 17:49:04.654 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:04.672 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:07.920 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.27s
+2025-05-17 17:49:07.922 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:07.940 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:10.946 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.03s
+2025-05-17 17:49:10.948 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:10.965 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:12.732 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.78s
+2025-05-17 17:49:12.733 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:12.749 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:14.463 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.73s
+2025-05-17 17:49:14.465 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:14.482 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:16.395 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.93s
+2025-05-17 17:49:16.396 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:16.411 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:18.309 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.91s
+2025-05-17 17:49:18.311 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:18.401 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:21.627 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.32s
+2025-05-17 17:49:22.550 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:22.567 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:27.280 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.73s
+2025-05-17 17:49:27.281 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:27.298 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:30.481 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.20s
+2025-05-17 17:49:30.483 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:30.499 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:33.683 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.20s
+2025-05-17 17:49:33.684 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:33.699 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:36.448 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.76s
+2025-05-17 17:49:36.450 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:36.467 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:38.285 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.83s
+2025-05-17 17:49:38.286 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:38.308 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:40.086 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.80s
+2025-05-17 17:49:40.087 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:40.106 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:42.017 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.93s
+2025-05-17 17:49:42.019 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:42.037 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:43.981 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.96s
+2025-05-17 17:49:43.982 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:44.074 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:47.493 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.51s
+2025-05-17 17:49:48.419 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:48.436 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:51.743 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.32s
+2025-05-17 17:49:51.745 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:51.758 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:54.512 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.77s
+2025-05-17 17:49:54.513 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:54.526 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:49:57.480 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.97s
+2025-05-17 17:49:57.481 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:49:57.494 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:50:00.152 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.67s
+2025-05-17 17:50:00.154 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:50:00.170 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:50:01.919 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.76s
+2025-05-17 17:50:01.920 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:50:01.937 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:50:03.646 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.73s
+2025-05-17 17:50:03.647 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:50:03.667 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:50:05.533 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.89s
+2025-05-17 17:50:05.534 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:50:05.548 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:50:07.411 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.88s
+2025-05-17 17:50:07.412 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:50:07.501 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:50:10.761 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.35s
+2025-05-17 17:50:14.744 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[4, 1, 2]
+2025-05-17 17:50:14.744 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 17:50:14.745 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:50:14.762 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:50:18.482 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.74s
+2025-05-17 17:50:18.483 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:50:18.500 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:50:19.593 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.11s
+2025-05-17 17:50:19.595 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:50:19.609 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:50:22.998 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.40s
+2025-05-17 17:50:23.000 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:50:23.017 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:50:24.107 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.11s
+2025-05-17 17:50:24.108 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 1
+2025-05-17 17:50:24.109 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:50:24.125 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:50:27.614 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.50s
+2025-05-17 17:50:27.615 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:50:27.632 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:50:31.046 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.43s
+2025-05-17 17:50:31.047 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 17:50:31.048 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 17:50:31.048 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 11549 out of 11549, EP 620 out of 620, CP 200 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 10138 out of 10138, EP 580 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 10138 out of 10138, EP 580 out of 900, CP 200 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 10138 out of 12590, EP 580 out of 590, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 1.
+
+# ENEMIES STATS
+Enemy 4 has HP 9836 out of 9836, stun level 0%. Its attack 79, defense 292, arts strength 654, arts defense 246, initiative 123. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, burn, seal, rot, fear, delay, freeze, mute, blind, deathblow. This enemy is within reach of basic attack, crafts, and attack arts.
+Enemy 1 has HP 34681 out of 34681, stun level 0%. Its attack 782, defense 409, arts strength 793, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+Enemy 2 has HP 5689 out of 9836, stun level 12%. Its attack 79, defense 249, arts strength 654, arts defense 246, initiative 123. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, burn, seal, rot, fear, delay, freeze, mute, blind, deathblow. This enemy is within reach of basic attack, crafts, and attack arts.
+2025-05-17 17:50:39.561 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":4}', name='action_use_art'), id='SEMC8ME3eoWKcV4F72VnOZew9KaKssfz', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=26, prompt_tokens=1545, total_tokens=1571, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--fb7088fd-2dc9-49d4-8f77-4a72782a6c84-0' tool_calls=[{'name': 'action_use_art', 'args': {'enemy_id': 4}, 'id': 'SEMC8ME3eoWKcV4F72VnOZew9KaKssfz', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1545, 'output_tokens': 26, 'total_tokens': 1571}
+2025-05-17 17:50:39.566 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 17:50:40.204 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=1
+2025-05-17 17:50:40.508 | DEBUG    | tools.controller:select_target_enemy:106 - TOOL: Next target
+2025-05-17 17:50:41.121 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=2
+2025-05-17 17:50:41.425 | DEBUG    | tools.controller:select_target_enemy:106 - TOOL: Next target
+2025-05-17 17:50:42.053 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=1
+2025-05-17 17:50:42.356 | DEBUG    | tools.controller:select_target_enemy:106 - TOOL: Next target
+2025-05-17 17:50:42.967 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=2
+2025-05-17 17:50:43.270 | DEBUG    | tools.controller:select_target_enemy:106 - TOOL: Next target
+2025-05-17 17:50:43.887 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=1
+2025-05-17 17:50:44.189 | DEBUG    | tools.controller:select_target_enemy:106 - TOOL: Next target
+2025-05-17 17:50:44.807 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=2
+2025-05-17 17:50:45.110 | DEBUG    | tools.controller:select_target_enemy:106 - TOOL: Next target
+2025-05-17 17:50:45.110 | DEBUG    | tools.controller:action_use_art:176 - TOOL: Using art
+2025-05-17 17:50:46.718 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 17:50:46.718 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 17:50:46.719 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:50:46.941 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:50:51.094 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.37s
+2025-05-17 17:50:51.094 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:50:51.221 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:50:55.510 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.42s
+2025-05-17 17:50:55.512 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 17:50:56.157 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:50:56.290 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:51:00.282 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.12s
+2025-05-17 17:51:00.283 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 17:51:00.284 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 17:51:00.389 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 3
+2025-05-17 17:51:00.389 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 17:51:01.010 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:51:01.025 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:51:05.481 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.47s
+2025-05-17 17:51:05.482 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:51:05.500 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:51:08.923 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.44s
+2025-05-17 17:51:08.925 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:51:08.941 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:51:14.015 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.09s
+2025-05-17 17:51:14.016 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:51:14.032 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:51:18.432 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.42s
+2025-05-17 17:51:18.434 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:51:18.449 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:51:21.212 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.78s
+2025-05-17 17:51:21.214 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:51:21.229 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:51:23.914 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.70s
+2025-05-17 17:51:23.916 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:51:23.932 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:51:26.760 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.84s
+2025-05-17 17:51:26.762 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:51:26.777 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:51:29.493 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.73s
+2025-05-17 17:51:29.494 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:51:29.582 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:51:33.715 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.22s
+2025-05-17 17:51:34.617 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:51:34.637 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:51:39.926 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.31s
+2025-05-17 17:51:39.928 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:51:39.942 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:51:44.125 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.20s
+2025-05-17 17:51:44.126 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:51:44.140 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:51:49.014 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.89s
+2025-05-17 17:51:49.015 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:51:49.031 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:51:53.312 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.30s
+2025-05-17 17:51:53.314 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:51:53.331 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:51:55.881 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.57s
+2025-05-17 17:51:55.883 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:51:55.902 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:51:58.624 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.74s
+2025-05-17 17:51:58.625 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:51:58.641 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:52:01.391 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.77s
+2025-05-17 17:52:01.393 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:52:01.409 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:52:04.193 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.80s
+2025-05-17 17:52:04.194 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:52:04.283 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:52:08.192 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.00s
+2025-05-17 17:52:09.123 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:52:09.141 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:52:14.558 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.44s
+2025-05-17 17:52:14.560 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:52:14.574 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:52:18.443 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.88s
+2025-05-17 17:52:18.445 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:52:18.458 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:52:24.759 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 6.31s
+2025-05-17 17:52:24.760 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:52:24.774 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:52:29.792 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.03s
+2025-05-17 17:52:29.794 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:52:29.808 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:52:32.726 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.93s
+2025-05-17 17:52:32.727 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:52:32.742 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:52:35.847 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.12s
+2025-05-17 17:52:35.848 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:52:35.865 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:52:39.182 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.33s
+2025-05-17 17:52:39.183 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:52:39.204 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:52:42.389 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.21s
+2025-05-17 17:52:42.391 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:52:42.477 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:52:47.012 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.62s
+2025-05-17 17:52:48.886 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[2, 1, 0]
+2025-05-17 17:52:48.886 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 17:52:48.888 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:52:48.905 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:52:54.658 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.77s
+2025-05-17 17:52:54.660 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:52:54.674 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:52:56.488 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.83s
+2025-05-17 17:52:56.490 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:52:56.507 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:53:02.514 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 6.02s
+2025-05-17 17:53:02.516 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:53:02.532 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:53:04.247 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.73s
+2025-05-17 17:53:04.248 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:53:04.268 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:53:10.191 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.94s
+2025-05-17 17:53:10.193 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:53:10.208 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:53:11.900 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.71s
+2025-05-17 17:53:11.900 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 2
+2025-05-17 17:53:11.901 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:53:11.915 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:53:18.281 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 6.38s
+2025-05-17 17:53:18.281 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 17:53:18.282 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 17:53:18.283 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 11549 out of 11549, EP 605 out of 620, CP 200 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 9061 out of 10138, EP 580 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 7435 out of 10138, EP 900 out of 900, CP 200 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 7435 out of 12590, EP 900 out of 900, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 2.
+
+# ENEMIES STATS
+Enemy 2 has HP 8475 out of 9836, stun level 48%. Its attack 79, defense 292, arts strength 654, arts defense 246, initiative 123. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, burn, seal, rot, fear, delay, freeze, mute, blind, deathblow. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+Enemy 1 has HP 5689 out of 9836, stun level 12%. Its attack 79, defense 249, arts strength 654, arts defense 246, initiative 123. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, burn, seal, rot, fear, delay, freeze, mute, blind, deathblow. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+Enemy 0 has HP 33360 out of 34681, stun level 24%. Its attack 782, defense 409, arts strength 793, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+2025-05-17 17:53:27.871 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":0}', name='action_use_craft'), id='zCxEPQjb0WbrVzSkIORn1KT8rTuSL1lQ', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=27, prompt_tokens=1556, total_tokens=1583, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--8265c3c9-39f9-4f0f-b9a4-34f43c8adf75-0' tool_calls=[{'name': 'action_use_craft', 'args': {'enemy_id': 0}, 'id': 'zCxEPQjb0WbrVzSkIORn1KT8rTuSL1lQ', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1556, 'output_tokens': 27, 'total_tokens': 1583}
+2025-05-17 17:53:27.875 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 17:53:28.539 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=0
+2025-05-17 17:53:28.540 | DEBUG    | tools.controller:select_target_enemy:102 - TOOL: Found requested target! target_id=0 == enemy_id=0
+2025-05-17 17:53:28.540 | DEBUG    | tools.controller:action_use_craft:203 - TOOL: Using craft
+2025-05-17 17:53:30.148 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 17:53:30.148 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 17:53:30.149 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:53:30.417 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:53:35.261 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.11s
+2025-05-17 17:53:35.261 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:53:35.386 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:53:39.453 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.19s
+2025-05-17 17:53:39.455 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 17:53:39.988 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:53:40.114 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:53:46.708 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 6.72s
+2025-05-17 17:53:49.879 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:53:50.012 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:53:54.436 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.56s
+2025-05-17 17:53:57.565 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:53:57.699 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:01.570 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.01s
+2025-05-17 17:54:01.572 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 17:54:01.573 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 17:54:01.679 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 2
+2025-05-17 17:54:01.680 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 17:54:02.326 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:02.341 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:07.240 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.91s
+2025-05-17 17:54:07.242 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:07.256 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:10.304 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.06s
+2025-05-17 17:54:10.306 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:10.322 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:14.604 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.30s
+2025-05-17 17:54:14.605 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:14.621 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:18.539 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.93s
+2025-05-17 17:54:18.541 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:18.556 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:20.906 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.37s
+2025-05-17 17:54:20.907 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:20.922 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:23.337 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.43s
+2025-05-17 17:54:23.338 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:23.354 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:25.971 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.63s
+2025-05-17 17:54:25.973 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:25.988 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:28.694 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.72s
+2025-05-17 17:54:28.695 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:28.788 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:32.604 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.91s
+2025-05-17 17:54:33.515 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:33.531 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:38.326 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.81s
+2025-05-17 17:54:38.327 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:38.341 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:41.559 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.23s
+2025-05-17 17:54:41.561 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:41.574 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:46.668 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.11s
+2025-05-17 17:54:46.669 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:46.687 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:50.602 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.93s
+2025-05-17 17:54:50.604 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:50.621 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:52.926 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.32s
+2025-05-17 17:54:52.928 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:52.941 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:55.462 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.53s
+2025-05-17 17:54:55.463 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:55.481 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:54:58.170 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.71s
+2025-05-17 17:54:58.171 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:54:58.188 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:55:01.038 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.87s
+2025-05-17 17:55:01.039 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:55:01.126 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:55:05.393 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.35s
+2025-05-17 17:55:07.198 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[1, 0]
+2025-05-17 17:55:07.198 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 17:55:07.199 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:55:07.220 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:55:12.159 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.96s
+2025-05-17 17:55:12.161 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:55:12.177 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:55:13.506 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.34s
+2025-05-17 17:55:13.506 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 0
+2025-05-17 17:55:13.508 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:55:13.522 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:55:18.445 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.94s
+2025-05-17 17:55:18.446 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:55:18.461 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:55:19.962 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.52s
+2025-05-17 17:55:19.964 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:55:19.981 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:55:24.895 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.93s
+2025-05-17 17:55:24.896 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:55:24.914 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:55:26.362 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.47s
+2025-05-17 17:55:26.364 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:55:26.381 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:55:31.138 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.77s
+2025-05-17 17:55:31.140 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:55:31.154 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:55:32.545 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.41s
+2025-05-17 17:55:32.546 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 17:55:32.547 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 17:55:32.547 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 11549 out of 11549, EP 605 out of 620, CP 200 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 9061 out of 10138, EP 565 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 4128 out of 10138, EP 900 out of 900, CP 200 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 11678 out of 12590, EP 575 out of 900, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 0.
+
+# ENEMIES STATS
+Enemy 1 has HP 26947 out of 34681, stun level 90%. Its attack 782, defense 409, arts strength 793, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is within reach of basic attack, crafts, and attack arts.
+Enemy 0 has HP 3726 out of 9836, stun level 60%. Its attack 79, defense 249, arts strength 654, arts defense 246, initiative 123. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, burn, seal, rot, fear, delay, freeze, mute, blind, deathblow. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+2025-05-17 17:55:40.866 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":1}', name='action_use_art'), id='hJi6u7ngT9gR6ZgdCAYJ0pGtpBIMjhNL', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=26, prompt_tokens=1359, total_tokens=1385, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--67a2d188-cc00-4959-9c68-a8bc9a1dec4d-0' tool_calls=[{'name': 'action_use_art', 'args': {'enemy_id': 1}, 'id': 'hJi6u7ngT9gR6ZgdCAYJ0pGtpBIMjhNL', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1359, 'output_tokens': 26, 'total_tokens': 1385}
+2025-05-17 17:55:40.870 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 17:55:41.451 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=0
+2025-05-17 17:55:41.754 | DEBUG    | tools.controller:select_target_enemy:106 - TOOL: Next target
+2025-05-17 17:55:42.339 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=1
+2025-05-17 17:55:42.340 | DEBUG    | tools.controller:select_target_enemy:102 - TOOL: Found requested target! target_id=1 == enemy_id=1
+2025-05-17 17:55:42.340 | DEBUG    | tools.controller:action_use_art:176 - TOOL: Using art
+2025-05-17 17:55:43.949 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 17:55:43.949 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 17:55:43.950 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:55:44.169 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:55:48.206 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.26s
+2025-05-17 17:55:48.207 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:55:48.333 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:55:52.329 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.12s
+2025-05-17 17:55:52.330 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 17:55:52.961 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:55:53.091 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:55:57.293 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.33s
+2025-05-17 17:55:57.294 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 17:55:57.295 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 17:55:57.401 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 2
+2025-05-17 17:55:57.401 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 17:55:58.045 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:55:58.060 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:56:02.594 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.55s
+2025-05-17 17:56:02.595 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:56:02.612 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:56:06.123 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.53s
+2025-05-17 17:56:06.125 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:56:06.139 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:56:14.756 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 8.63s
+2025-05-17 17:56:14.757 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:56:14.771 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:56:19.287 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.53s
+2025-05-17 17:56:19.289 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:56:19.304 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:56:22.901 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.61s
+2025-05-17 17:56:22.902 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:56:22.921 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:56:25.527 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.62s
+2025-05-17 17:56:25.528 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:56:25.546 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:56:28.543 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.02s
+2025-05-17 17:56:28.545 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:56:28.562 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:56:31.361 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.82s
+2025-05-17 17:56:31.363 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:56:31.449 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:56:35.411 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.05s
+2025-05-17 17:56:36.346 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:56:36.365 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:56:41.486 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.14s
+2025-05-17 17:56:41.487 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:56:41.503 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:56:45.443 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.95s
+2025-05-17 17:56:45.444 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:56:45.459 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:56:50.089 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.64s
+2025-05-17 17:56:50.090 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:56:50.104 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:56:53.952 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.86s
+2025-05-17 17:56:53.954 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:56:53.970 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:56:56.620 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.67s
+2025-05-17 17:56:56.621 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:56:56.637 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:56:58.991 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.37s
+2025-05-17 17:56:58.992 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:56:59.006 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:57:01.557 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.57s
+2025-05-17 17:57:01.558 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:57:01.572 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:57:04.110 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.55s
+2025-05-17 17:57:04.112 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:57:04.203 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:57:08.250 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.14s
+2025-05-17 17:57:10.147 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[0, 1]
+2025-05-17 17:57:10.147 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 17:57:10.149 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:57:10.166 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:57:14.922 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.77s
+2025-05-17 17:57:14.923 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:57:14.937 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:57:16.322 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.40s
+2025-05-17 17:57:16.324 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:57:16.339 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:57:20.975 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.65s
+2025-05-17 17:57:20.977 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:57:20.996 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:57:22.477 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.50s
+2025-05-17 17:57:22.479 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:57:22.496 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:57:27.343 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.86s
+2025-05-17 17:57:27.344 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:57:27.362 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:57:28.711 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.37s
+2025-05-17 17:57:28.713 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:57:28.730 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:57:33.622 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.91s
+2025-05-17 17:57:33.623 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:57:33.637 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:57:35.098 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.48s
+2025-05-17 17:57:35.099 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 3
+2025-05-17 17:57:35.099 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 17:57:35.100 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 17:57:35.100 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 11549 out of 11549, EP 605 out of 620, CP 200 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 9061 out of 10138, EP 565 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 4128 out of 10138, EP 900 out of 900, CP 200 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 11678 out of 12590, EP 575 out of 900, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 3.
+
+# ENEMIES STATS
+Enemy 0 has HP 3726 out of 9836, stun level 60%. Its attack 79, defense 249, arts strength 654, arts defense 246, initiative 123. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, burn, seal, rot, fear, delay, freeze, mute, blind, deathblow. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+Enemy 1 has HP 26947 out of 34681, stun level 90%. Its attack 782, defense 409, arts strength 793, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+2025-05-17 17:57:41.049 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":0}', name='action_use_art'), id='V97kvtjxFOsAyH9qqXuY9E1b5N7AkQp4', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=26, prompt_tokens=1365, total_tokens=1391, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--63345b8b-8680-4c87-adb0-f5f7f2c0bae9-0' tool_calls=[{'name': 'action_use_art', 'args': {'enemy_id': 0}, 'id': 'V97kvtjxFOsAyH9qqXuY9E1b5N7AkQp4', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1365, 'output_tokens': 26, 'total_tokens': 1391}
+2025-05-17 17:57:41.053 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 17:57:41.705 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=1
+2025-05-17 17:57:42.009 | DEBUG    | tools.controller:select_target_enemy:106 - TOOL: Next target
+2025-05-17 17:57:42.657 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=0
+2025-05-17 17:57:42.658 | DEBUG    | tools.controller:select_target_enemy:102 - TOOL: Found requested target! target_id=0 == enemy_id=0
+2025-05-17 17:57:42.658 | DEBUG    | tools.controller:action_use_art:176 - TOOL: Using art
+2025-05-17 17:57:44.267 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 17:57:44.267 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 17:57:44.268 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:57:44.487 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:57:50.812 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 6.54s
+2025-05-17 17:57:50.813 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:57:50.938 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:57:57.727 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 6.91s
+2025-05-17 17:57:57.729 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 17:57:58.348 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:57:58.483 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:58:03.767 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.42s
+2025-05-17 17:58:03.768 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 17:58:03.769 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 17:58:03.874 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 2
+2025-05-17 17:58:03.875 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 17:58:04.513 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:58:04.528 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:58:13.469 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 8.96s
+2025-05-17 17:58:13.470 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:58:13.487 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:58:18.799 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.33s
+2025-05-17 17:58:18.800 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:58:18.818 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:58:26.178 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 7.38s
+2025-05-17 17:58:26.179 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:58:26.194 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:58:35.589 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 9.41s
+2025-05-17 17:58:35.590 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:58:35.605 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:58:39.629 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.04s
+2025-05-17 17:58:39.630 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:58:39.648 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:58:44.444 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.81s
+2025-05-17 17:58:44.445 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:58:44.462 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:58:49.243 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.80s
+2025-05-17 17:58:49.245 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:58:49.262 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:58:53.655 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.41s
+2025-05-17 17:58:53.657 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:58:53.743 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:59:00.111 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 6.45s
+2025-05-17 17:59:01.046 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:59:01.064 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:59:06.654 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.61s
+2025-05-17 17:59:06.655 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:59:06.671 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:59:11.938 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.28s
+2025-05-17 17:59:11.940 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:59:11.955 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:59:17.786 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.85s
+2025-05-17 17:59:17.787 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:59:17.802 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:59:23.199 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.41s
+2025-05-17 17:59:23.200 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:59:23.219 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:59:25.938 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.74s
+2025-05-17 17:59:25.939 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:59:25.953 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:59:29.241 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.30s
+2025-05-17 17:59:29.243 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:59:29.261 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:59:32.924 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.68s
+2025-05-17 17:59:32.926 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:59:32.945 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:59:36.600 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.67s
+2025-05-17 17:59:36.602 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:59:36.690 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:59:40.704 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.10s
+2025-05-17 17:59:43.820 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[1, 3]
+2025-05-17 17:59:43.820 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 17:59:43.821 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:59:43.838 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:59:50.455 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 6.63s
+2025-05-17 17:59:50.456 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:59:50.471 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:59:52.459 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.00s
+2025-05-17 17:59:52.461 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:59:52.478 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 17:59:58.692 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 6.23s
+2025-05-17 17:59:58.693 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 17:59:58.711 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:00:00.238 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.54s
+2025-05-17 18:00:00.239 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 1
+2025-05-17 18:00:00.240 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:00:00.255 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:00:06.057 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.82s
+2025-05-17 18:00:06.059 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:00:06.075 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:00:12.002 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.94s
+2025-05-17 18:00:12.002 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 18:00:12.003 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 18:00:12.003 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 11549 out of 11549, EP 605 out of 620, CP 200 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 9061 out of 10138, EP 565 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 9061 out of 10138, EP 565 out of 900, CP 200 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 9061 out of 12590, EP 565 out of 900, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 1.
+
+# ENEMIES STATS
+Enemy 1 has HP 26947 out of 34681, stun level 90%. Its attack 782, defense 409, arts strength 793, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is within reach of basic attack, crafts, and attack arts.
+Enemy 3 has HP 3726 out of 9836, stun level 60%. Its attack 79, defense 249, arts strength 654, arts defense 246, initiative 123. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, burn, seal, rot, fear, delay, freeze, mute, blind, deathblow. This enemy is within reach of basic attack, crafts, and attack arts.
+2025-05-17 18:00:20.485 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":1}', name='action_use_art'), id='ZQsn47OCeTmyNzCrr9hqiU2s0tTiSgLU', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=26, prompt_tokens=1352, total_tokens=1378, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--08d3ffce-3514-41ca-9f5c-fb5cc6dfa248-0' tool_calls=[{'name': 'action_use_art', 'args': {'enemy_id': 1}, 'id': 'ZQsn47OCeTmyNzCrr9hqiU2s0tTiSgLU', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1352, 'output_tokens': 26, 'total_tokens': 1378}
+2025-05-17 18:00:20.489 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 18:00:21.115 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=3
+2025-05-17 18:00:21.418 | DEBUG    | tools.controller:select_target_enemy:106 - TOOL: Next target
+2025-05-17 18:00:22.024 | DEBUG    | tools.controller:select_target_enemy:98 - TOOL: Current target_id=1
+2025-05-17 18:00:22.025 | DEBUG    | tools.controller:select_target_enemy:102 - TOOL: Found requested target! target_id=1 == enemy_id=1
+2025-05-17 18:00:22.025 | DEBUG    | tools.controller:action_use_art:176 - TOOL: Using art
+2025-05-17 18:00:23.634 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 18:00:23.634 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 18:00:23.635 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:00:23.849 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:00:27.286 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.65s
+2025-05-17 18:00:27.286 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:00:27.411 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:00:30.788 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.50s
+2025-05-17 18:00:30.790 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 18:00:31.303 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:00:31.429 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:00:34.946 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.64s
+2025-05-17 18:00:37.934 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:00:38.063 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:00:41.688 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.75s
+2025-05-17 18:00:44.819 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:00:44.958 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:00:48.488 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.67s
+2025-05-17 18:00:48.489 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 18:00:48.490 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 18:00:48.597 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 1
+2025-05-17 18:00:48.597 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 18:00:49.243 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:00:49.260 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:00:52.418 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.18s
+2025-05-17 18:00:52.420 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:00:52.435 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:00:55.250 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.83s
+2025-05-17 18:00:55.251 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:00:55.269 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:00:58.682 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.43s
+2025-05-17 18:00:58.683 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:00:58.702 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:01.414 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.73s
+2025-05-17 18:01:01.415 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:01.434 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:03.281 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.86s
+2025-05-17 18:01:03.283 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:03.301 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:05.081 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.80s
+2025-05-17 18:01:05.083 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:05.102 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:07.015 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.93s
+2025-05-17 18:01:07.016 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:07.035 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:08.949 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.93s
+2025-05-17 18:01:08.951 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:09.038 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:12.486 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.54s
+2025-05-17 18:01:14.386 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[0]
+2025-05-17 18:01:14.386 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 18:01:14.388 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:14.403 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:17.785 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.40s
+2025-05-17 18:01:17.786 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:17.802 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:18.914 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.13s
+2025-05-17 18:01:18.915 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:18.935 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:22.217 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.30s
+2025-05-17 18:01:22.219 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:22.235 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:23.316 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.10s
+2025-05-17 18:01:23.317 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:23.335 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:26.615 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.30s
+2025-05-17 18:01:26.616 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:26.635 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:27.717 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.10s
+2025-05-17 18:01:27.718 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 2
+2025-05-17 18:01:27.719 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:27.735 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:31.050 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.33s
+2025-05-17 18:01:31.050 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 18:01:31.051 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 18:01:31.051 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 11549 out of 11549, EP 590 out of 620, CP 200 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 7657 out of 10138, EP 550 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 4128 out of 10138, EP 900 out of 900, CP 200 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 4128 out of 12590, EP 900 out of 900, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 2.
+
+# ENEMIES STATS
+Enemy 0 has HP 23707 out of 34681, stun level 0%. Its attack 782, defense 409, arts strength 793, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+2025-05-17 18:01:37.017 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":0}', name='action_use_art'), id='TeP95H8JsIESYxexaX2ugqDt2N6hAalG', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=26, prompt_tokens=1171, total_tokens=1197, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--f8695a56-39c4-4731-8355-3856f090ab84-0' tool_calls=[{'name': 'action_use_art', 'args': {'enemy_id': 0}, 'id': 'TeP95H8JsIESYxexaX2ugqDt2N6hAalG', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1171, 'output_tokens': 26, 'total_tokens': 1197}
+2025-05-17 18:01:37.021 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 18:01:37.021 | DEBUG    | tools.controller:action_use_art:176 - TOOL: Using art
+2025-05-17 18:01:38.630 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 18:01:38.630 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 18:01:38.631 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:38.873 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:42.684 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.05s
+2025-05-17 18:01:42.684 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:42.813 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:46.198 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.51s
+2025-05-17 18:01:46.200 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 18:01:46.889 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:47.021 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:50.429 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.54s
+2025-05-17 18:01:53.556 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:53.687 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:01:57.035 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.48s
+2025-05-17 18:01:57.036 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 18:01:57.037 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 18:01:57.143 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 1
+2025-05-17 18:01:57.143 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 18:01:57.784 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:01:57.800 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:01.140 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.36s
+2025-05-17 18:02:01.142 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:01.156 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:03.688 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.55s
+2025-05-17 18:02:03.689 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:03.703 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:06.593 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.90s
+2025-05-17 18:02:06.594 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:06.611 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:09.163 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.57s
+2025-05-17 18:02:09.164 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:09.183 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:10.828 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.66s
+2025-05-17 18:02:10.829 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:10.845 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:12.497 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.67s
+2025-05-17 18:02:12.498 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:12.517 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:14.307 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.81s
+2025-05-17 18:02:14.308 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:14.322 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:16.123 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.81s
+2025-05-17 18:02:16.124 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:16.216 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:19.389 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.27s
+2025-05-17 18:02:21.271 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[0]
+2025-05-17 18:02:21.272 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 18:02:21.274 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:21.288 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:24.469 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.20s
+2025-05-17 18:02:24.470 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:24.485 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:25.493 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.02s
+2025-05-17 18:02:25.493 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 0
+2025-05-17 18:02:25.495 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:25.512 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:28.764 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.27s
+2025-05-17 18:02:28.765 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:28.784 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:29.765 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.00s
+2025-05-17 18:02:29.767 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:29.783 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:32.889 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.12s
+2025-05-17 18:02:32.891 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:32.909 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:33.937 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.05s
+2025-05-17 18:02:33.938 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:33.953 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:37.113 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.18s
+2025-05-17 18:02:37.115 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:37.129 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:38.156 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.04s
+2025-05-17 18:02:38.156 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 18:02:38.157 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 18:02:38.157 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 11549 out of 11549, EP 590 out of 620, CP 200 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 7657 out of 10138, EP 550 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 4128 out of 10138, EP 900 out of 900, CP 200 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 10315 out of 12590, EP 560 out of 900, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 0.
+
+# ENEMIES STATS
+Enemy 0 has HP 16159 out of 34681, stun level 0%. Its attack 782, defense 409, arts strength 675, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is within reach of basic attack, crafts, and attack arts.
+2025-05-17 18:02:43.237 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":0}', name='action_use_art'), id='Fk9jbJdB36YIKq7Jerhdq77g4MfZlvlZ', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=26, prompt_tokens=1166, total_tokens=1192, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--5d673105-0f9f-4d9c-9e4c-f754b112ceab-0' tool_calls=[{'name': 'action_use_art', 'args': {'enemy_id': 0}, 'id': 'Fk9jbJdB36YIKq7Jerhdq77g4MfZlvlZ', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1166, 'output_tokens': 26, 'total_tokens': 1192}
+2025-05-17 18:02:43.242 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 18:02:43.242 | DEBUG    | tools.controller:action_use_art:176 - TOOL: Using art
+2025-05-17 18:02:44.850 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 18:02:44.850 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 18:02:44.851 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:45.089 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:49.223 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.37s
+2025-05-17 18:02:49.224 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:49.351 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:53.270 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.05s
+2025-05-17 18:02:53.271 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 18:02:53.895 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:54.028 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:02:58.031 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.14s
+2025-05-17 18:02:58.032 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 18:02:58.033 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 18:02:58.140 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 1
+2025-05-17 18:02:58.140 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 18:02:58.771 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:02:58.787 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:03:03.968 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.20s
+2025-05-17 18:03:03.969 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:03:03.984 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:03:08.025 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.06s
+2025-05-17 18:03:08.027 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:03:08.043 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:03:13.123 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.10s
+2025-05-17 18:03:13.125 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:03:13.140 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:03:17.424 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.30s
+2025-05-17 18:03:17.425 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:03:17.443 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:03:20.236 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.81s
+2025-05-17 18:03:20.237 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:03:20.251 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:03:22.967 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.73s
+2025-05-17 18:03:22.968 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:03:22.983 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:03:25.611 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.64s
+2025-05-17 18:03:25.613 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:03:25.627 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:03:28.258 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.64s
+2025-05-17 18:03:28.259 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:03:28.350 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:03:32.457 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.20s
+2025-05-17 18:03:34.330 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[0]
+2025-05-17 18:03:34.330 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 18:03:34.332 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:03:34.352 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:03:39.502 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.17s
+2025-05-17 18:03:39.503 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:03:39.518 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:03:41.088 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.59s
+2025-05-17 18:03:41.090 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:03:41.107 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:03:46.457 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.37s
+2025-05-17 18:03:46.458 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:03:46.476 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:03:47.974 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.52s
+2025-05-17 18:03:47.976 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:03:47.990 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:03:52.702 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.73s
+2025-05-17 18:03:52.703 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:03:52.718 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:03:54.257 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.55s
+2025-05-17 18:03:54.258 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:03:54.276 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:03:59.001 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.74s
+2025-05-17 18:03:59.002 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:03:59.016 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:04:00.368 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.37s
+2025-05-17 18:04:00.369 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 3
+2025-05-17 18:04:00.369 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 18:04:00.370 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 18:04:00.371 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 9673 out of 11549, EP 590 out of 620, CP 200 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 5804 out of 10138, EP 550 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 2140 out of 10138, EP 900 out of 900, CP 200 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 12590 out of 12590, EP 560 out of 900, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 3.
+
+# ENEMIES STATS
+Enemy 0 has HP 16159 out of 34681, stun level 0%. Its attack 782, defense 409, arts strength 675, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+2025-05-17 18:04:06.643 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":0}', name='action_use_art'), id='CrBL6AMRGU86n6DEOeYu44C6s6oOoYnV', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=26, prompt_tokens=1171, total_tokens=1197, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--fceafce3-f8a8-424a-bcd8-400c0195cab5-0' tool_calls=[{'name': 'action_use_art', 'args': {'enemy_id': 0}, 'id': 'CrBL6AMRGU86n6DEOeYu44C6s6oOoYnV', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1171, 'output_tokens': 26, 'total_tokens': 1197}
+2025-05-17 18:04:06.647 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 18:04:06.647 | DEBUG    | tools.controller:action_use_art:176 - TOOL: Using art
+2025-05-17 18:04:08.256 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 18:04:08.256 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 18:04:08.257 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:04:08.472 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:04:15.293 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 7.04s
+2025-05-17 18:04:15.293 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:04:15.419 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:04:24.358 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 9.06s
+2025-05-17 18:04:24.359 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 18:04:24.990 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:04:25.126 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:04:30.042 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.05s
+2025-05-17 18:04:30.043 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 18:04:30.044 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 18:04:30.150 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 1
+2025-05-17 18:04:30.150 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 18:04:30.805 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:04:30.821 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:04:57.708 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 26.90s
+2025-05-17 18:04:57.710 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:04:57.730 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:05:21.808 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 24.10s
+2025-05-17 18:05:21.809 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:05:21.828 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:05:33.600 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 11.79s
+2025-05-17 18:05:33.602 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:05:33.616 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:05:53.550 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 19.95s
+2025-05-17 18:05:53.552 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:05:53.567 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:06:07.623 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 14.07s
+2025-05-17 18:06:07.625 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:06:07.640 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:06:12.492 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.87s
+2025-05-17 18:06:12.494 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:06:12.514 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:06:20.723 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 8.23s
+2025-05-17 18:06:20.724 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:06:20.742 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:06:28.725 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 8.00s
+2025-05-17 18:06:28.726 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:06:28.814 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:06:34.623 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.90s
+2025-05-17 18:06:36.527 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[0]
+2025-05-17 18:06:36.527 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 18:06:36.529 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:06:36.544 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:06:50.609 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 14.08s
+2025-05-17 18:06:50.610 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:06:50.631 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:06:52.193 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.58s
+2025-05-17 18:06:52.195 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:06:52.214 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:07:06.991 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 14.80s
+2025-05-17 18:07:06.993 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:07:07.012 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:07:10.323 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.33s
+2025-05-17 18:07:10.324 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:07:10.341 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:07:42.663 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 32.34s
+2025-05-17 18:07:42.664 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:07:42.681 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:07:44.922 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.26s
+2025-05-17 18:07:44.923 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 2
+2025-05-17 18:07:44.924 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:07:44.943 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:07:58.247 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 13.32s
+2025-05-17 18:07:58.247 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 18:07:58.249 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 18:07:58.249 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 9673 out of 11549, EP 590 out of 620, CP 200 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 5804 out of 10138, EP 550 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 2140 out of 10138, EP 900 out of 900, CP 200 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 2140 out of 12590, EP 900 out of 900, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 2.
+
+# ENEMIES STATS
+Enemy 0 has HP 16159 out of 34681, stun level 0%. Its attack 782, defense 409, arts strength 675, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+2025-05-17 18:08:04.593 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":0}', name='action_use_craft'), id='dz3AbfWSwfim6AG3ZzwMFBhqfIKJAbxQ', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=27, prompt_tokens=1170, total_tokens=1197, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--4cf7503c-ec0f-4a8c-9eda-f9fdd033894e-0' tool_calls=[{'name': 'action_use_craft', 'args': {'enemy_id': 0}, 'id': 'dz3AbfWSwfim6AG3ZzwMFBhqfIKJAbxQ', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1170, 'output_tokens': 27, 'total_tokens': 1197}
+2025-05-17 18:08:04.598 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 18:08:04.598 | DEBUG    | tools.controller:action_use_craft:203 - TOOL: Using craft
+2025-05-17 18:08:06.207 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 18:08:06.207 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 18:08:06.208 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:08:06.439 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:08:13.283 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 7.07s
+2025-05-17 18:08:13.283 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:08:13.407 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:08:18.173 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.89s
+2025-05-17 18:08:18.174 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 18:08:18.799 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:08:18.931 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:08:23.972 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.17s
+2025-05-17 18:08:23.973 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 18:08:23.974 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 18:08:24.080 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 1
+2025-05-17 18:08:24.080 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 18:08:24.711 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:08:24.730 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:08:32.005 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 7.29s
+2025-05-17 18:08:32.006 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:08:32.022 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:08:35.016 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.01s
+2025-05-17 18:08:35.018 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:08:35.031 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:08:41.873 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 6.85s
+2025-05-17 18:08:41.874 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:08:41.892 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:08:49.190 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 7.32s
+2025-05-17 18:08:49.191 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:08:49.210 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:08:52.256 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.07s
+2025-05-17 18:08:52.258 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:08:52.277 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:08:55.433 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.17s
+2025-05-17 18:08:55.435 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:08:55.450 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:08:58.899 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.46s
+2025-05-17 18:08:58.901 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:08:58.915 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:09:02.588 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.69s
+2025-05-17 18:09:02.590 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:09:02.679 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:09:07.523 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.93s
+2025-05-17 18:09:09.394 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[0]
+2025-05-17 18:09:09.395 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 18:09:09.397 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:09:09.414 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:09:15.998 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 6.60s
+2025-05-17 18:09:16.000 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:09:16.014 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:09:17.570 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.57s
+2025-05-17 18:09:17.572 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:09:17.586 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:09:25.255 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 7.68s
+2025-05-17 18:09:25.256 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:09:25.273 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:09:26.889 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.63s
+2025-05-17 18:09:26.889 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 1
+2025-05-17 18:09:26.891 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:09:26.909 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:09:33.888 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 7.00s
+2025-05-17 18:09:33.889 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:09:33.908 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:09:41.262 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 7.37s
+2025-05-17 18:09:41.262 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 18:09:41.263 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 18:09:41.263 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 9673 out of 11549, EP 590 out of 620, CP 200 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 5804 out of 10138, EP 550 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 5804 out of 10138, EP 550 out of 900, CP 200 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 5804 out of 12590, EP 550 out of 900, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 1.
+
+# ENEMIES STATS
+Enemy 0 has HP 12640 out of 34681, stun level 9%. Its attack 782, defense 409, arts strength 675, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+2025-05-17 18:09:47.107 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":0}', name='action_use_art'), id='S1aQsvigiVHA51bTnBwT8Lfnjf9DNmaf', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=26, prompt_tokens=1170, total_tokens=1196, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--cc5bf8be-048d-4a1d-867d-81be28685013-0' tool_calls=[{'name': 'action_use_art', 'args': {'enemy_id': 0}, 'id': 'S1aQsvigiVHA51bTnBwT8Lfnjf9DNmaf', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1170, 'output_tokens': 26, 'total_tokens': 1196}
+2025-05-17 18:09:47.112 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 18:09:47.112 | DEBUG    | tools.controller:action_use_art:176 - TOOL: Using art
+2025-05-17 18:09:48.719 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 18:09:48.719 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 18:09:48.720 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:09:48.941 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:09:53.221 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.50s
+2025-05-17 18:09:53.221 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:09:53.348 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:09:58.122 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.90s
+2025-05-17 18:09:58.124 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 18:09:58.628 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:09:58.753 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:10:04.966 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 6.34s
+2025-05-17 18:10:08.090 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:10:08.219 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:10:12.398 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.31s
+2025-05-17 18:10:12.399 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 18:10:12.400 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 18:10:12.504 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 1
+2025-05-17 18:10:12.504 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 18:10:13.149 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:10:13.163 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:10:19.199 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 6.05s
+2025-05-17 18:10:19.200 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:10:19.214 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:10:23.952 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.75s
+2025-05-17 18:10:23.954 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:10:23.972 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:10:28.819 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.87s
+2025-05-17 18:10:28.820 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:10:28.834 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:10:33.620 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.80s
+2025-05-17 18:10:33.621 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:10:33.638 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:10:36.185 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.56s
+2025-05-17 18:10:36.186 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:10:36.199 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:10:38.869 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.68s
+2025-05-17 18:10:38.870 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:10:38.885 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:10:41.639 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.77s
+2025-05-17 18:10:41.640 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:10:41.654 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:10:44.487 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.85s
+2025-05-17 18:10:44.488 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:10:44.578 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:10:48.536 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.05s
+2025-05-17 18:10:50.428 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[0]
+2025-05-17 18:10:50.428 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 18:10:50.430 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:10:50.448 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:10:55.507 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.08s
+2025-05-17 18:10:55.508 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:10:55.522 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:10:56.951 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.44s
+2025-05-17 18:10:56.952 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 0
+2025-05-17 18:10:56.953 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:10:56.969 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:11:02.798 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.85s
+2025-05-17 18:11:02.800 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:11:02.814 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:11:04.269 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.47s
+2025-05-17 18:11:04.270 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:11:04.284 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:11:15.315 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 11.04s
+2025-05-17 18:11:15.316 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:11:15.331 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:11:16.703 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.39s
+2025-05-17 18:11:16.704 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:11:16.722 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:11:22.479 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.77s
+2025-05-17 18:11:22.480 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:11:22.495 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:11:23.942 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.46s
+2025-05-17 18:11:23.943 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 18:11:23.944 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 18:11:23.944 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 9673 out of 11549, EP 575 out of 620, CP 200 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 5196 out of 10138, EP 535 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 2491 out of 10138, EP 900 out of 900, CP 194 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 12590 out of 12590, EP 545 out of 900, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 0.
+
+# ENEMIES STATS
+Enemy 0 has HP 7923 out of 34681, stun level 64%. Its attack 782, defense 409, arts strength 675, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is within reach of basic attack, crafts, and attack arts.
+2025-05-17 18:11:29.832 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":0}', name='action_use_craft'), id='4fbuZP2uxdVWvgZsun5MNNjVg8PptIWe', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=27, prompt_tokens=1165, total_tokens=1192, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--20159384-8465-426b-994e-22e72d477d60-0' tool_calls=[{'name': 'action_use_craft', 'args': {'enemy_id': 0}, 'id': '4fbuZP2uxdVWvgZsun5MNNjVg8PptIWe', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1165, 'output_tokens': 27, 'total_tokens': 1192}
+2025-05-17 18:11:29.837 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 18:11:29.837 | DEBUG    | tools.controller:action_use_craft:203 - TOOL: Using craft
+2025-05-17 18:11:31.445 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 18:11:31.445 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 18:11:31.446 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:11:31.674 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:11:35.102 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.66s
+2025-05-17 18:11:35.103 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:11:35.231 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:11:38.536 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.43s
+2025-05-17 18:11:38.537 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 18:11:39.164 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:11:39.299 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:11:42.647 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.48s
+2025-05-17 18:11:42.648 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 18:11:42.649 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 18:11:42.755 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 1
+2025-05-17 18:11:42.755 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 18:11:43.392 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:11:43.407 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:11:46.837 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.45s
+2025-05-17 18:11:46.839 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:11:46.856 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:11:49.034 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.20s
+2025-05-17 18:11:49.036 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:11:49.049 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:11:52.068 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.03s
+2025-05-17 18:11:52.070 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:11:52.084 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:11:54.733 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.66s
+2025-05-17 18:11:54.735 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:11:54.752 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:11:56.500 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.77s
+2025-05-17 18:11:56.502 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:11:56.515 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:11:58.201 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.70s
+2025-05-17 18:11:58.202 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:11:58.219 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:12:00.070 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.87s
+2025-05-17 18:12:00.071 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:12:00.089 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:12:01.966 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.90s
+2025-05-17 18:12:01.968 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:12:02.056 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:12:05.342 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.37s
+2025-05-17 18:12:07.211 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[0]
+2025-05-17 18:12:07.211 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 18:12:07.213 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:12:07.230 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:12:10.701 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.49s
+2025-05-17 18:12:10.702 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:12:10.720 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:12:11.771 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.07s
+2025-05-17 18:12:11.773 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:12:11.789 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:12:15.181 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.41s
+2025-05-17 18:12:15.182 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:12:15.198 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:12:16.239 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.06s
+2025-05-17 18:12:16.241 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:12:16.260 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:12:19.462 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.22s
+2025-05-17 18:12:19.464 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:12:19.478 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:12:20.537 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.07s
+2025-05-17 18:12:20.538 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:12:20.555 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:12:23.833 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.30s
+2025-05-17 18:12:23.834 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:12:23.850 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:12:24.877 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.04s
+2025-05-17 18:12:24.878 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 3
+2025-05-17 18:12:24.878 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 18:12:24.879 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 18:12:24.879 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 9673 out of 11549, EP 575 out of 620, CP 177 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 5196 out of 10138, EP 535 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 2491 out of 10138, EP 900 out of 900, CP 194 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 12590 out of 12590, EP 545 out of 900, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 3.
+
+# ENEMIES STATS
+Enemy 0 has HP 3174 out of 34681, stun level 83%. Its attack 782, defense 409, arts strength 675, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+2025-05-17 18:12:30.666 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":0}', name='action_use_art'), id='BnoaAa7EAtSEO20SBAAxI6PcnrTVrHg2', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=26, prompt_tokens=1171, total_tokens=1197, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--ae386a33-ed12-4fc9-9c16-66b03a777509-0' tool_calls=[{'name': 'action_use_art', 'args': {'enemy_id': 0}, 'id': 'BnoaAa7EAtSEO20SBAAxI6PcnrTVrHg2', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1171, 'output_tokens': 26, 'total_tokens': 1197}
+2025-05-17 18:12:30.670 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 18:12:30.670 | DEBUG    | tools.controller:action_use_art:176 - TOOL: Using art
+2025-05-17 18:12:32.279 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 18:12:32.279 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 18:12:32.280 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:12:32.500 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:12:36.789 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.51s
+2025-05-17 18:12:36.789 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:12:36.917 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:12:41.297 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.51s
+2025-05-17 18:12:41.299 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 18:12:41.926 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:12:42.058 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:12:46.513 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.59s
+2025-05-17 18:12:46.515 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 18:12:46.515 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 18:12:46.622 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 1
+2025-05-17 18:12:46.623 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 18:12:47.262 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:12:47.278 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:12:53.175 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.91s
+2025-05-17 18:12:53.176 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:12:53.192 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:12:56.930 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.75s
+2025-05-17 18:12:56.932 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:12:56.946 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:13:02.275 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.34s
+2025-05-17 18:13:02.277 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:13:02.295 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:13:06.741 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.46s
+2025-05-17 18:13:06.742 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:13:06.761 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:13:09.369 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.63s
+2025-05-17 18:13:09.370 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:13:09.386 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:13:12.066 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.69s
+2025-05-17 18:13:12.067 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:13:12.081 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:13:15.015 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.95s
+2025-05-17 18:13:15.016 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:13:15.032 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:13:18.277 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.26s
+2025-05-17 18:13:18.278 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:13:18.365 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:13:22.741 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.46s
+2025-05-17 18:13:24.605 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[0]
+2025-05-17 18:13:24.606 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 18:13:24.607 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:13:24.621 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:13:30.271 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.66s
+2025-05-17 18:13:30.272 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:13:30.286 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:13:31.663 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.39s
+2025-05-17 18:13:31.664 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:13:31.682 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:13:36.862 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.20s
+2025-05-17 18:13:36.864 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:13:36.881 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:13:38.129 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.26s
+2025-05-17 18:13:38.129 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 1
+2025-05-17 18:13:38.130 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:13:38.145 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:13:43.396 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.27s
+2025-05-17 18:13:43.397 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:13:43.415 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:13:49.247 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.85s
+2025-05-17 18:13:49.247 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 18:13:49.248 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 18:13:49.249 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 9673 out of 11549, EP 575 out of 620, CP 177 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 5196 out of 10138, EP 535 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 5196 out of 10138, EP 535 out of 900, CP 200 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 5196 out of 12590, EP 535 out of 900, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 1.
+
+# ENEMIES STATS
+Enemy 0 has HP 3174 out of 34681, stun level 83%. Its attack 782, defense 409, arts strength 675, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+2025-05-17 18:13:54.895 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":0}', name='action_use_art'), id='gky2P1vlPDLuaDi0bkZw8Zy9yOyR2aBS', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=26, prompt_tokens=1170, total_tokens=1196, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--ea19c0e5-ae11-4504-993e-3cbd891c776b-0' tool_calls=[{'name': 'action_use_art', 'args': {'enemy_id': 0}, 'id': 'gky2P1vlPDLuaDi0bkZw8Zy9yOyR2aBS', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1170, 'output_tokens': 26, 'total_tokens': 1196}
+2025-05-17 18:13:54.899 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 18:13:54.899 | DEBUG    | tools.controller:action_use_art:176 - TOOL: Using art
+2025-05-17 18:13:56.508 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 18:13:56.508 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 18:13:56.509 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:13:56.747 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:14:01.054 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.54s
+2025-05-17 18:14:01.054 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:14:01.187 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:14:05.218 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.16s
+2025-05-17 18:14:05.219 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 18:14:05.842 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:14:05.973 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:14:09.923 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.08s
+2025-05-17 18:14:09.925 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 18:14:09.925 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 18:14:10.029 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 1
+2025-05-17 18:14:10.029 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 18:14:10.677 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:14:10.693 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:14:15.528 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.85s
+2025-05-17 18:14:15.530 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:14:15.544 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:14:18.593 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.06s
+2025-05-17 18:14:18.595 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:14:18.611 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:14:23.526 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.93s
+2025-05-17 18:14:23.528 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:14:23.543 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:14:27.462 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.93s
+2025-05-17 18:14:27.463 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:14:27.478 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:14:30.194 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.73s
+2025-05-17 18:14:30.196 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:14:30.210 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:14:32.528 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.33s
+2025-05-17 18:14:32.530 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:14:32.544 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:14:35.061 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.53s
+2025-05-17 18:14:35.063 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:14:35.077 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:14:37.485 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.42s
+2025-05-17 18:14:37.486 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:14:37.576 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:14:41.462 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.98s
+2025-05-17 18:14:43.370 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[0]
+2025-05-17 18:14:43.371 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 18:14:43.373 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:14:43.386 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:14:48.431 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.06s
+2025-05-17 18:14:48.432 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:14:48.447 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:14:49.852 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.42s
+2025-05-17 18:14:49.854 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:14:49.871 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:14:54.738 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.88s
+2025-05-17 18:14:54.739 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:14:54.753 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:14:56.084 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.35s
+2025-05-17 18:14:56.085 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:14:56.103 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:15:04.282 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 8.20s
+2025-05-17 18:15:04.283 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:15:04.302 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:15:05.694 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.41s
+2025-05-17 18:15:05.696 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:15:05.712 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:15:10.615 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.92s
+2025-05-17 18:15:10.617 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:15:10.633 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:15:11.951 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.33s
+2025-05-17 18:15:11.951 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 3
+2025-05-17 18:15:11.951 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 18:15:11.953 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 18:15:11.953 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 8146 out of 11549, EP 575 out of 620, CP 189 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 3338 out of 10138, EP 535 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 796 out of 10138, EP 900 out of 900, CP 200 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 11042 out of 12590, EP 545 out of 900, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 3.
+
+# ENEMIES STATS
+Enemy 0 has HP 3174 out of 34681, stun level 83%. Its attack 782, defense 409, arts strength 793, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+2025-05-17 18:15:18.105 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":0}', name='action_use_art'), id='PeOQfpn9zU4Nm8NbYwjFs396afVtPrqd', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=26, prompt_tokens=1170, total_tokens=1196, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--182cd392-91f4-4b46-9565-e083901d4250-0' tool_calls=[{'name': 'action_use_art', 'args': {'enemy_id': 0}, 'id': 'PeOQfpn9zU4Nm8NbYwjFs396afVtPrqd', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1170, 'output_tokens': 26, 'total_tokens': 1196}
+2025-05-17 18:15:18.109 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 18:15:18.109 | DEBUG    | tools.controller:action_use_art:176 - TOOL: Using art
+2025-05-17 18:15:19.718 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 18:15:19.718 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 18:15:19.719 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:15:19.938 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:15:24.427 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.71s
+2025-05-17 18:15:24.427 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:15:24.550 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:15:28.929 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.50s
+2025-05-17 18:15:28.931 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 18:15:29.569 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:15:29.703 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:15:34.501 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.93s
+2025-05-17 18:15:34.502 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 18:15:34.503 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 18:15:34.607 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 1
+2025-05-17 18:15:34.607 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 18:15:35.251 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:15:35.267 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:15:41.133 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.88s
+2025-05-17 18:15:41.135 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:15:41.152 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:15:44.698 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.56s
+2025-05-17 18:15:44.700 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:15:44.718 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:15:50.501 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.80s
+2025-05-17 18:15:50.503 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:15:50.519 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:15:55.206 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.70s
+2025-05-17 18:15:55.208 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:15:55.226 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:15:57.919 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.71s
+2025-05-17 18:15:57.921 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:15:57.934 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:16:00.512 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.59s
+2025-05-17 18:16:00.513 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:16:00.528 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:16:03.501 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.99s
+2025-05-17 18:16:03.502 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:16:03.520 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:16:06.366 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 2.86s
+2025-05-17 18:16:06.367 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:16:06.458 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:16:10.366 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.00s
+2025-05-17 18:16:12.272 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[0]
+2025-05-17 18:16:12.272 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 18:16:12.274 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:16:12.290 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:16:18.112 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.84s
+2025-05-17 18:16:18.114 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:16:18.129 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:16:19.475 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.36s
+2025-05-17 18:16:19.476 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:16:19.493 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:16:25.088 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.61s
+2025-05-17 18:16:25.089 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:16:25.103 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:16:26.441 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.35s
+2025-05-17 18:16:26.443 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:16:26.459 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:16:31.699 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.26s
+2025-05-17 18:16:31.701 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:16:31.718 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:16:33.134 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.43s
+2025-05-17 18:16:33.134 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 2
+2025-05-17 18:16:33.135 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:16:33.153 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:16:38.712 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.58s
+2025-05-17 18:16:38.712 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 18:16:38.713 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 18:16:38.713 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 8146 out of 11549, EP 575 out of 620, CP 189 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 3338 out of 10138, EP 535 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 796 out of 10138, EP 900 out of 900, CP 200 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 796 out of 12590, EP 900 out of 900, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 2.
+
+# ENEMIES STATS
+Enemy 0 has HP 3174 out of 34681, stun level 83%. Its attack 782, defense 409, arts strength 793, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is within reach of basic attack, crafts, and attack arts.
+2025-05-17 18:16:43.816 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":0}', name='action_use_art'), id='3c6byPjoUTh9G07A7QrMfcIlm2TgEQij', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=26, prompt_tokens=1162, total_tokens=1188, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--24d9d451-1159-44c3-a165-c2f01045baea-0' tool_calls=[{'name': 'action_use_art', 'args': {'enemy_id': 0}, 'id': '3c6byPjoUTh9G07A7QrMfcIlm2TgEQij', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1162, 'output_tokens': 26, 'total_tokens': 1188}
+2025-05-17 18:16:43.820 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 18:16:43.821 | DEBUG    | tools.controller:action_use_art:176 - TOOL: Using art
+2025-05-17 18:16:45.428 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 18:16:45.428 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 18:16:45.429 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:16:45.643 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:16:50.611 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.18s
+2025-05-17 18:16:50.612 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:16:50.737 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:16:55.208 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.60s
+2025-05-17 18:16:55.210 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 18:16:55.827 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:16:55.965 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:17:00.743 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.92s
+2025-05-17 18:17:00.745 | DEBUG    | nodes.vlm_node:__call__:24 - ---UPDATING COMBAT STATS---
+2025-05-17 18:17:00.746 | DEBUG    | nodes.vlm_node:_estimate_number_of_enemies:99 - STAT_UPDATER: Counting enemies
+2025-05-17 18:17:00.850 | INFO     | nodes.vlm_node:_estimate_number_of_enemies:137 - STAT UPDATER: Enemies number: 1
+2025-05-17 18:17:00.850 | DEBUG    | nodes.vlm_node:_get_enemy_strength:146 - STAT_UPDATER: Getting enemies' strengths and weaknesses
+2025-05-17 18:17:01.476 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:17:01.495 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:17:09.371 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 7.90s
+2025-05-17 18:17:09.372 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:17:09.389 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:17:15.228 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 5.85s
+2025-05-17 18:17:15.229 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:17:15.243 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:17:23.672 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 8.44s
+2025-05-17 18:17:23.673 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:17:23.690 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:17:30.510 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 6.84s
+2025-05-17 18:17:30.512 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:17:30.528 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:17:33.671 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.16s
+2025-05-17 18:17:33.673 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:17:33.690 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:17:37.177 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.50s
+2025-05-17 18:17:37.179 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:17:37.196 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:17:41.976 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.80s
+2025-05-17 18:17:41.978 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:17:41.995 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:17:45.536 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.56s
+2025-05-17 18:17:45.538 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:17:45.624 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:17:50.273 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 4.74s
+2025-05-17 18:17:52.128 | DEBUG    | nodes.vlm_node:_get_enemy_strength:189 - Enemies profiled: profiled_enemies_indices=[0]
+2025-05-17 18:17:52.128 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:411 - STAT_UPDATER: Updating awareness on active characters
+2025-05-17 18:17:52.130 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:17:52.144 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:17:59.701 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 7.57s
+2025-05-17 18:17:59.703 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:17:59.721 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:18:01.111 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.41s
+2025-05-17 18:18:01.112 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:18:01.128 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:18:08.544 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 7.43s
+2025-05-17 18:18:08.546 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:18:08.563 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:18:10.010 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 1.46s
+2025-05-17 18:18:10.010 | INFO     | nodes.vlm_node:_update_active_characters_strengths:450 - STAT_UPDATER: Active character ID: 1
+2025-05-17 18:18:10.011 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:18:10.028 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:18:17.245 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 7.23s
+2025-05-17 18:18:17.246 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:18:17.262 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:18:24.938 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 7.69s
+2025-05-17 18:18:24.938 | DEBUG    | nodes.vlm_node:_update_active_characters_strengths:462 - Character stats updated
+2025-05-17 18:18:24.939 | DEBUG    | nodes.llm_node:__call__:50 - ---REASONER IS PLANNING---
+2025-05-17 18:18:24.939 | INFO     | nodes.llm_node:__call__:53 - Turn context:
+# CHARACTERS STATS
+Character 0 has HP 8146 out of 11549, EP 575 out of 620, CP 189 out of 200. Its attack 1141, defense 736, arts strength 701, arts defense 556, initiative 94. 
+Character 1 has HP 3338 out of 10138, EP 535 out of 580, CP 200 out of 200. Its attack 1024, defense 684, arts strength 673, arts defense 514, initiative 103. 
+Character 2 has HP 3338 out of 10138, EP 535 out of 900, CP 200 out of 200. Its attack 910, defense 588, arts strength 761, arts defense 477, initiative 84. 
+Character 3 has HP 3338 out of 12590, EP 535 out of 900, CP 200 out of 200. Its attack 1099, defense 674, arts strength 762, arts defense 527, initiative 105. 
+
+You can give orders to Character 1.
+
+# ENEMIES STATS
+Enemy 0 has HP 3174 out of 34681, stun level 83%. Its attack 782, defense 409, arts strength 793, arts defense 344, initiative 148. It is weak to elements: time 120% of arts damage, space 120% of arts damage, mirage 120% of arts damage. It is resistant to elements: mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage, mirage 120% of arts damage. It is susceptible to get stat down, fear, delay, mute, blind. This enemy is out of reach for basic attack, but can be attacked by crafts, and attack arts.
+2025-05-17 18:18:30.517 | INFO     | nodes.llm_node:__call__:61 - Reasoner decision:
+content='\n\n' additional_kwargs={'tool_calls': [ChatCompletionMessageToolCall(function=Function(arguments='{"enemy_id":0}', name='action_use_art'), id='Z3t1d9AVPaLfmiyAuDCwaQFJsuUPEcHg', type='function')]} response_metadata={'token_usage': Usage(completion_tokens=26, prompt_tokens=1170, total_tokens=1196, completion_tokens_details=None, prompt_tokens_details=None), 'model': 'openai/qwen3-30b-a3b', 'finish_reason': 'tool_calls', 'model_name': 'openai/qwen3-30b-a3b'} id='run--f8f7a84c-7a7e-450d-820c-6810ba741534-0' tool_calls=[{'name': 'action_use_art', 'args': {'enemy_id': 0}, 'id': 'Z3t1d9AVPaLfmiyAuDCwaQFJsuUPEcHg', 'type': 'tool_call'}] usage_metadata={'input_tokens': 1170, 'output_tokens': 26, 'total_tokens': 1196}
+2025-05-17 18:18:30.522 | DEBUG    | tools.controller:select_target_enemy:89 - TOOL: Attemp to select requested target
+2025-05-17 18:18:30.522 | DEBUG    | tools.controller:action_use_art:176 - TOOL: Using art
+2025-05-17 18:18:32.129 | DEBUG    | __main__:_forget_turn_reasoning:120 - ---FORGET TURN REASONING---
+2025-05-17 18:18:32.130 | DEBUG    | __main__:_is_combat_over:59 - ---CHECK IF COMBAT IS OVER---
+2025-05-17 18:18:32.131 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:18:32.352 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:18:35.865 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.73s
+2025-05-17 18:18:35.865 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:18:35.994 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:18:39.569 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.70s
+2025-05-17 18:18:39.570 | DEBUG    | __main__:_wait_for_agent_turn:98 - ---WAIT FOR AGENT TURN---
+2025-05-17 18:18:40.223 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:18:40.358 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:18:43.606 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.38s
+2025-05-17 18:18:46.840 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:18:46.971 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:18:50.169 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.33s
+2025-05-17 18:18:53.403 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:18:53.535 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:18:56.735 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.33s
+2025-05-17 18:18:59.966 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:19:00.097 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:19:03.298 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.33s
+2025-05-17 18:19:06.535 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:19:06.665 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:19:09.864 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.33s
+2025-05-17 18:19:13.096 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:19:13.227 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
+2025-05-17 18:19:16.454 | INFO     | nodes.vlm_wrapper:__call__:119 - Success in 3.36s
+2025-05-17 18:19:19.049 | INFO     | nodes.vlm_wrapper:__call__:74 - Prepare inputs
+2025-05-17 18:19:19.160 | INFO     | nodes.vlm_wrapper:__call__:105 - Generating
