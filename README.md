@@ -28,5 +28,8 @@ and [nodes/vlm_wrapper.py](https://github.com/s4rduk4r/elysium/blob/04cd67b575d4
 4. Engage some enemies in combat
 5. Observe agent's behaviour
 
+# DEMO
+You may see how the agent works in the [video](https://www.youtube.com/watch?v=JAsctVm7zVQ)
+
 # AGENT'S GRAPH
 ![](https://raw.githubusercontent.com/s4rduk4r/elysium/main/agent_graph.png)
